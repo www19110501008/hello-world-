@@ -1,2 +1,2 @@
 # hello-world
-i love :coffee:,:pizza，and dancing
+i love coffee:,pizza，and dancing
